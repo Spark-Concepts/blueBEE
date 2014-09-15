@@ -36,11 +36,11 @@ See these links for more details.
 <LI>After One Wall 55 feet
 <LI>After Two Walls 60 feet
 <LI>After Three Walls 36 feet
-*approximate and may vary depending upon the RF environment
 </UL>
+*approximate and may vary depending upon the RF environment
 
-## COMING SOON!!: 
-Simple 100% plug-and-play cable replacement solution with Spark Concepts blueUSB BT20!
+# COMING SOON!!: 
+Make your blueBEE BT10 a simple plug-and-play cable replacement solution with Spark Concepts blueUSB BT20!
 ![BT20](https://github.com/Spark-Concepts/blueBEE/blob/master/wiki/20140914_232635.jpg)
 
 Website at: http://www.spark-concepts.com
