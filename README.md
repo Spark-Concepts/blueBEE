@@ -2,17 +2,16 @@ Spark Concepts blueBEE
 ===================
 ![BT10 Board](https://github.com/Spark-Concepts/blueBEE/blob/master/wiki/20140914_231741.jpg)
 
-CNC xPRO driver w/ 4x DRV8825 motor drivers; allows for dual motor configurations on the X,Y, or Z axis + wireless support
+Swap in Bluetooth functionality without a major hardware redesign! The RN42-I/RM is a small form factor, low power Bluetooth radio module offering plug-in compatibility for the widely used 2 x 10 (2mm) socket typically used for XBee radio modules. 
+The Roving Networks’ RN42 module provides Bluetooth connectivity in legacy and existing designs that may have been based upon the 802.15.4 standard
 
 See these links for more details.
 
 * [Spark Concepts](https://www.spark-concepts.com/)
 * [CNC xPRO wiki](https://github.com/Spark-Concepts/xPRO/wiki)
 * [xPRO Support Forum](http://www.spark-concepts.com/forums/)
-* [xPRO Github](https://github.com/Spark-Concepts/xPRO/)
-* [Spark Concepts Web Store](http://www.spark-concepts.com/cnc-xpro-controller/)
-
-**See the new CNC xPRO [Arduino Due ARM Port](http://www.spark-concepts.com/cnc-xpro-controller) and the [G2 wiki](http://www.spark-concepts.com/forums/)**
+* [xPRO Github](https://github.com/Spark-Concepts/blueBEE/)
+* [Spark Concepts Web Store](http://www.spark-concepts.com/)
 
 <H2>Files:</H2>
 <UL>
