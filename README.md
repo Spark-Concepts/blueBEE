@@ -15,9 +15,9 @@ See these links for more details.
 
 <H2>Files:</H2>
 <UL>
-<LI>[Schematics]
+<LI>[Schematics](https://github.com/Spark-Concepts/blueBEE/tree/master/Schematics)
 <LI>[RN42 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf)
-<LI>[RN42 Application Guides]
+<LI>[RN42 Application Guides](https://github.com/Spark-Concepts/blueBEE/tree/master/Datasheets)
 </UL>
 <H2>Hardware:</H2>
 <UL>
