@@ -1,6 +1,6 @@
 Spark Concepts blueBEE
 ===================
-![xPRO Board](http://cdn1.bigcommerce.com/n-ou1isn/hyslicv8/products/92/images/350/IMG_5158_NEW__17115.1406345536.1280.1280.jpg)
+![BT10 Board](https://github.com/Spark-Concepts/blueBEE/blob/master/wiki/20140914_231741.jpg)
 
 CNC xPRO driver w/ 4x DRV8825 motor drivers; allows for dual motor configurations on the X,Y, or Z axis + wireless support
 
