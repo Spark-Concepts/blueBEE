@@ -21,7 +21,7 @@ See these links for more details.
 
 <H2>Hardware:</H2>
 <UL>
-<LI>Compatible 2 x 10 (2mm) socket/form-factor typically used for XBee radio modules
+<LI>2 x 10 (2mm) socket/form-factor typically used with XBee radio modules
 <LI>Bluetooth connectivity for legacy and existing designs
 <LI>Low power, 3.3V @ 50mA max (Connected with data transfer)
 <LI>1,200 bps up to 921 Kbps, non-standard baud rates can be programmed
