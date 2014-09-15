@@ -8,9 +8,9 @@ The Roving Networks’ RN42 module provides Bluetooth connectivity in legacy and
 See these links for more details.
 
 * [Spark Concepts](https://www.spark-concepts.com/)
-* [CNC xPRO wiki](https://github.com/Spark-Concepts/xPRO/wiki)
-* [xPRO Support Forum](http://www.spark-concepts.com/forums/)
-* [xPRO Github](https://github.com/Spark-Concepts/blueBEE/)
+* [blueBEE wiki](https://github.com/Spark-Concepts/blueBEE/wiki)
+* [Support Forum](http://www.spark-concepts.com/forums/)
+* [blueBEE Github](https://github.com/Spark-Concepts/blueBEE/)
 * [Spark Concepts Web Store](http://www.spark-concepts.com/)
 
 <H2>Files:</H2>
