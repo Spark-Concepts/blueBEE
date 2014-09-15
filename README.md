@@ -23,7 +23,7 @@ See these links for more details.
 <UL>
 <LI>Compatible 2 x 10 (2mm) socket/form-factor typically used for XBee radio modules
 <LI>Bluetooth connectivity for legacy and existing designs
-<LI>COMING SOON: Simple PnP Cable replacement when combined with Spark Concepts [BT20](
+<LI>COMING SOON: Simple PnP Cable replacement when combined with Spark Concepts [BT20](https://github.com/Spark-Concepts/blueBEE/blob/master/wiki/20140914_232635.jpg)
 <LI>Low power
 <LI>1,200 bps up to 921 Kbps, non-standard baud rates can be programmed
 <LI>Frequency 2,402 ~ 2,480 MHz (FHSS/GFSK modulation, 79 channels at 1-MHz intervals)
