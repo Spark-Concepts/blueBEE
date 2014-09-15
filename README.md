@@ -15,9 +15,9 @@ See these links for more details.
 
 <H2>Files:</H2>
 <UL>
-<LI>Schematics
-<LI>Solder Stencil
-<LI>Hardware
+<LI>[Schematics]
+<LI>[RN42 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf)
+<LI>[RN42 Application Guides]
 </UL>
 <H2>Hardware:</H2>
 <UL>
