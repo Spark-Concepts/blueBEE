@@ -1,6 +1,5 @@
-Spark Concepts blueBEE<font color="red">This is some text!</font> 
+Spark Concepts blueBEE
 ===================
-<font color="red">This is some text!</font>
 ![xPRO Board](http://cdn1.bigcommerce.com/n-ou1isn/hyslicv8/products/92/images/350/IMG_5158_NEW__17115.1406345536.1280.1280.jpg)
 
 CNC xPRO driver w/ 4x DRV8825 motor drivers; allows for dual motor configurations on the X,Y, or Z axis + wireless support
