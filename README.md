@@ -14,11 +14,10 @@ See these links for more details.
 * [Spark Concepts Web Store](http://www.spark-concepts.com/)
 
 <H2>Files:</H2>
-<UL>
-<LI>[Schematics](https://github.com/Spark-Concepts/blueBEE/tree/master/Schematics)
-<LI>[RN42 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf)
-<LI>[RN42 Application Guides](https://github.com/Spark-Concepts/blueBEE/tree/master/Datasheets)
-</UL>
+*[Schematics](https://github.com/Spark-Concepts/blueBEE/tree/master/Schematics)
+*[RN42 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf)
+*[RN42 Application Guides](https://github.com/Spark-Concepts/blueBEE/tree/master/Datasheets)
+
 <H2>Hardware:</H2>
 <UL>
 <LI>100% GRBL version 0.8c compatible
