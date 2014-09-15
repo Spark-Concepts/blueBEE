@@ -23,16 +23,24 @@ See these links for more details.
 <UL>
 <LI>Compatible 2 x 10 (2mm) socket/form-factor typically used for XBee radio modules
 <LI>Bluetooth connectivity for legacy and existing designs
-<LI>
-<LI>Low power
+<LI>Low power, 3.3V @ 50mA max (Connected with data transfer)
 <LI>1,200 bps up to 921 Kbps, non-standard baud rates can be programmed
 <LI>Frequency 2,402 ~ 2,480 MHz (FHSS/GFSK modulation, 79 channels at 1-MHz intervals)
 <LI>Class 2 radio, 60 feet (20 meters) distance, 4 dBm output transmitter, -80 dBm typical receive sensitivity
 <LI>Configuration via the local UART and over-the-air RF
 <LI>Certifications: FCC, ICS, CE
 </UL>
-## COMING SOON: 
-100% Simple plug-and-play Cable replacement with Spark Concepts blueUSB BT20!
+
+<H2>RN42 Range Characteristics (MAXIMUM Approximate Range In Office Environment)</H2>
+<UL>
+<LI>After One Wall 55 feet
+<LI>After Two Walls 60 feet
+<LI>After Three Walls 36 feet
+*approximate and may vary depending upon the RF environment
+</UL>
+
+## COMING SOON!!: 
+Simple 100% plug-and-play cable replacement solution with Spark Concepts blueUSB BT20!
 ![BT20](https://github.com/Spark-Concepts/blueBEE/blob/master/wiki/20140914_232635.jpg)
 
 Website at: http://www.spark-concepts.com
