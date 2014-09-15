@@ -21,14 +21,16 @@ See these links for more details.
 
 <H2>Hardware:</H2>
 <UL>
-<LI>100% GRBL version 0.8c compatible
-<LI>Capable of powering from ATX PSU or from a dedicated 12V/24V two wire power supply
-<LI>Drive 4 motors with DRV8825 Stepper Drivers - 2.5A (peak) with 1.75A (RMS) with up to 1/32 microstepping
-<LI>1 Driver capable of cloning X,Y, or Z or being run as an independent axis
-<LI>Hardware support for both USB and Wireless Operation (XBee, WiFly, or RN42-XV)
-<LI>Emergency Stop to cut all motor power (with optional override)
-<LI>12-24V and 5V outputs for powering peripherals (fans, pumps, vacuums)
-<LI>Quickly connect to Stepper Motors and limit switches with 3.5mm screw terminals
+<LI>Compatible 2 x 10 (2mm) socket/form-factor typically used for XBee radio modules
+<LI>Bluetooth connectivity for legacy and existing designs
+<LI>COMING SOON: Simple PnP Cable replacement when combined with Spark Concepts [BT20](
+<LI>Low power
+<LI>1,200 bps up to 921 Kbps, non-standard baud rates can be programmed
+<LI>Frequency 2,402 ~ 2,480 MHz (FHSS/GFSK modulation, 79 channels at 1-MHz intervals)
+<LI>Class 2 radio, 60 feet (20 meters) distance, 4 dBm output transmitter, -80 dBm typical receive sensitivity
+<LI>Configuration via the local UART and over-the-air RF
+
+<LI>Certifications: FCC, ICS, CE
 </UL>
 Website at: http://www.spark-concepts.com
 
