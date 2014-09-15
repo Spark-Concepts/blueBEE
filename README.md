@@ -14,9 +14,10 @@ See these links for more details.
 * [Spark Concepts Web Store](http://www.spark-concepts.com/)
 
 <H2>Files:</H2>
-*[Schematics](https://github.com/Spark-Concepts/blueBEE/tree/master/Schematics)
-*[RN42 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf)
-*[RN42 Application Guides](https://github.com/Spark-Concepts/blueBEE/tree/master/Datasheets)
+
+* [Schematics](https://github.com/Spark-Concepts/blueBEE/tree/master/Schematics)
+* [RN42 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf)
+* [RN42 Application Guides](https://github.com/Spark-Concepts/blueBEE/tree/master/Datasheets)
 
 <H2>Hardware:</H2>
 <UL>
