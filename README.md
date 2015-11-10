@@ -15,7 +15,7 @@ See these links for more details.
 
 <H2>Files:</H2>
 
-* [BT-10 (RN42) Datasheet](blueBEE/Datasheets/BlueBee-datasheet.pdf)
+* [BT-10 (RN42) Datasheet](https://github.com/Spark-Concepts/blueBEE/blob/master/Datasheets/BlueBee-datasheet.pdf)
 * [Schematics](https://github.com/Spark-Concepts/blueBEE/tree/master/Schematics)
 * [RN42 Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/rn-42-ds-v2.32r.pdf)
 * [RN42 Application Guides](https://github.com/Spark-Concepts/blueBEE/tree/master/Datasheets)
