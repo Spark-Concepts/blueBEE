@@ -1,6 +1,6 @@
 Spark Concepts blueBEE
 ===================
-![BT10 Board](https://raw.githubusercontent.com/Spark-Concepts/blueBEE/master/wiki/20140914_231741.jpg)
+![BT10 Board](https://github.com/Spark-Concepts/blueBEE/blob/master/wiki/BT-100.jpg?raw=true)
 
 Swap in Bluetooth functionality without a major hardware redesign! The RN42-I/RM is a small form factor, low power Bluetooth radio module offering plug-in compatibility for the widely used 2 x 10 (2mm) socket typically used for XBee radio modules. 
 The Roving Networks’ RN42 module provides Bluetooth connectivity in legacy and existing designs that may have been based upon the 802.15.4 standard
