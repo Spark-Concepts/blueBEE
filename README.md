@@ -42,7 +42,7 @@ See these links for more details.
 
 # COMING SOON!!: 
 Make your blueBEE BT10 a simple plug-and-play cable replacement solution with Spark Concepts blueUSB BT20!
-![BT20](https://raw.githubusercontent.com/Spark-Concepts/blueBEE/master/wiki/20140914_232635.jpg)
+![BT20](https://github.com/Spark-Concepts/blueBEE/blob/master/wiki/USB-BEE.jpg?raw=true)
 
 Website at: http://www.spark-concepts.com
 
